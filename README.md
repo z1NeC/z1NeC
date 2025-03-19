@@ -7,7 +7,7 @@
  
  🌱 I’m currently learning .lua
  
- 📫 How to reach me: z1necjo07@gmail.com / IG: cojo_z1ne
+ 📫 How to reach me: z1necojo07@gmail.com / IG: cojo_z1ne
 
 ===============================================
 ===============================================
